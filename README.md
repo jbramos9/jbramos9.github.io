@@ -1,5 +1,6 @@
 # Aspiring Data Scientist
 
+## Skills
 ### Programming Languages: Python, C/C++, MATLAB, HTML, CSS, SQL
 ### Libraries: PyTorch, TensorFlow, Keras, scikit-learn, Light GBM, XGBoost, pandas, Matplotlib, seaborn, Plotly, Dash, OpenCV, BeautifulSoup
 ### Modelling: CNN, Transformers, Regression, Classification, Clustering, Time-Series Analysis
@@ -20,6 +21,7 @@
 
 ## Projects
 **Multi-Stage Hybrid-CNN Transformer Model for Human Intent-Prediction (_August 2022 - July 2023_)**
+
 [Repository](https://github.com/jbramos9/DSP03_AY2223)
 - Led a team of 4 in designing and implementing a model that can predict human intention based on the objects they are gazing at using computer vision techniques.
 - Developed a multi-stage model that includes a pre-trained monocular depth estimator, a Transformer intent classifier, and a CNN-transformer gazed object predictor using Python.
@@ -27,6 +29,7 @@
 - Accepted in 2023 IEEE Region 10 Conference (TENCON) to present the paper for publishing.
 
 **Projective Distortion Removal (_October 2022 - November 2022_)**
+
 [Repository](https://github.com/jbramos9/removing_projective_distortion)
 - Developed a python program that removes the inherent projective distortion on a rectangular object in an input image.
 - Solved for the homography matrix given the four corner points of the rectangular object and performed linear transformation of the image using this matrix.
@@ -37,6 +40,3 @@
 - Led a team of 3 in designing the analog front-end circuit and the transmitter side of the transceiver unit.
 - Presented the design considerations and results to the project advisor.
 - Utilized TINA for circuit design, MPLAB for the ADC of the transmitter using C programming language, and MATLAB for digital signal processing.
-
-
-
