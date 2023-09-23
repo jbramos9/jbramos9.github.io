@@ -26,6 +26,12 @@ B.S., Electronics Engineering | University of the Philippines Diliman (_July 202
 - Achieved an overall accuracy of 54%, precision of 46.19%, recall of 50.01%, and an F1 score of 45.53%, demonstrating the model's robust performance in predicting human intention.
 - Accepted in 2023 IEEE Region 10 Conference (TENCON) to present the paper for publishing.
 
+**Polynomial Regression Model (_November 2022 - December 2022_)** ([Repository](https://github.com/jbramos9/polynomial_solver))
+- Built a polynomial regression model using Python that can solve any polynomial equation by outputting the degree and coefficients, given a set of x-y pair inputs.
+- Implemented the Tinygrad framework and SGD optimizer to find the optimal degree and coefficients for the model.
+- Achieved a perfect R2 score of 100% and an RMSE loss of 9.56.
+- Showcased skills in Python programming, mathematical modeling, and optimization techniques.
+
 **Projective Distortion Removal (_October 2022 - November 2022_)** ([Repository](https://github.com/jbramos9/removing_projective_distortion))
 - Developed a python program that removes the inherent projective distortion on a rectangular object in an input image.
 - Solved for the homography matrix given the four corner points of the rectangular object and performed linear transformation of the image using this matrix.
