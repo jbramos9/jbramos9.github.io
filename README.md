@@ -31,7 +31,7 @@ B.S., Electronics Engineering | University of the Philippines Diliman (_July 202
 - Solved for the homography matrix given the four corner points of the rectangular object and performed linear transformation of the image using this matrix.
 - Utilized OpenCV library for GUI design.
 
-**EMG-Based System (_October 2022 - November 2022_)**
+**EMG-Based System (_February 2022 - June 2022_)**
 - Designed and implemented an open-loop EMG-based system consisting of an analog front-end unit, a transceiver unit, and a signal processing unit.
 - Led a team of 3 in designing the analog front-end circuit and the transmitter side of the transceiver unit.
 - Presented the design considerations and results to the project advisor.
